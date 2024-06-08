@@ -1,0 +1,46 @@
+body {
+    padding: 2em;
+}
+
+.container {
+    /* using max-width to be responsive */
+    /*max-width: 900px;*/
+    border: 2px solid blue;
+    padding: 2em;
+    /*position: relative;*/
+    /*margin: 0 auto;*/
+}
+
+.item p {
+    border: 1px solid black;
+    width: 5em;
+    aspect-ratio: 1/1;
+    text-align: center;
+    align-content: center;
+}
+
+.relative .item p:nth-child(2) {
+    background: aquamarine;
+    position: relative;
+    top: 2em;
+    left: 2em;
+}
+
+.relative .item p:nth-child(3) {
+    background: cyan;
+    position: relative;
+    z-index: 1;
+}
+
+.absolute {
+    position: relative;
+}
+
+.absolute .item p:nth-child(2) {
+    background: coral;
+    /* for absolute position to be measured from the section absolute corner,
+    the section should be position relative */
+    position: absolute;
+    top: 4em;
+    left: 4em;
+}

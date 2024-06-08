@@ -1,0 +1,6 @@
+.container {
+    /* using max-width to be responsive */
+    max-width: 900px;
+    border: 2px solid blue;
+    margin: 0 auto;
+}

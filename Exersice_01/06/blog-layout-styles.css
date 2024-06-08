@@ -1,0 +1,17 @@
+main {
+    flex: 3;
+}
+
+time {
+    font-style: italic;
+}
+
+.author {
+    font-weight: bold;
+}
+
+aside {
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 10px;
+}

@@ -5,23 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed282971-bbdc-48a8-8c14-ab66a0a957b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/html_and_css.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exersice_01/01/gallery-styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exersice_01/01/image-gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/css/01/simple-selectors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/css/01/simple-selectors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/css/02/combinators.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/css/02/combinators.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/css/03/compound-selectors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/css/03/compound-selectors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/html/05/marking_text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_01/html/semantic_tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exersice_01/05/single-post.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exersice_01/05/single-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exersice_01/06/blog-layout-styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exersice_01/06/blog-layout-styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/01/box-model.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/01/box-model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/01/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/01/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/02/padding.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/02/padding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/02/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/02/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/03/margin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/03/margin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/04/width.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/04/width.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/05/height.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/05/height.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/06/border.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/06/border.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/07/box-sizing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/07/box-sizing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/08/overflow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/08/overflow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/09/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/09/font.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/11/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/11/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/11/task_11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/11/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/13/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/13/position.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/13/position.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_02/13/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +57,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;StanDobrev11&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/StanDobrev11/html_and_css&quot;,
+    &quot;accountId&quot;: &quot;246b8ee9-a9f6-46ac-906b-b3a9081dad93&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2hUifenXTQ1f2gmTT9xcSslu82q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,6 +86,8 @@
     "JavaScript Debug.01.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Master/PycharmProjects/html_and_css/Lecture_02/03",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,7 +98,16 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\03" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\02" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\01" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\13" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\13" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\11" />
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_01\css" />
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_01\html" />
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_01" />
@@ -96,7 +139,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717655161277</updated>
-      <workItem from="1717655162714" duration="12447000" />
+      <workItem from="1717655162714" duration="17522000" />
+      <workItem from="1717805355790" duration="17787000" />
     </task>
     <servers />
   </component>
