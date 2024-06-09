@@ -1,0 +1,28 @@
+body {
+    border: 2px solid black;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+article {
+    border: 2px solid blue;
+    margin: 4em;
+ }
+
+header {
+    margin: 2em;
+}
+
+main {
+    margin: 2em;
+}
+
+footer {
+    margin: 2em;
+}
+
+h2 {
+    border: 2px solid black;
+    text-align: center;
+    padding: 2em;
+}

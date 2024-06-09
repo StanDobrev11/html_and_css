@@ -1,0 +1,21 @@
+.container {
+    border: 2px solid green;
+    padding: 0 1em;
+    height: 350px;
+    overflow: scroll;
+}
+
+.section {
+    border: 1px solid black;
+    padding: 1em 4em;
+    margin: 1em 0;
+}
+
+.box {
+    border: 1px solid blue;
+    height: 4em;
+    padding: 0 2em;
+    align-content: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}

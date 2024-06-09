@@ -1,0 +1,36 @@
+.container {
+    padding-bottom: 2em;
+}
+
+.container a,
+.container button {
+    display: inline-block;
+    border: 1px solid lightgrey;
+    border-radius: 0.2em;
+    padding: 0.5em 1em;
+    margin-right: 0.5em;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.container .button-normal{
+    background: lightgrey;
+}
+
+.container .button-primary {
+    background: coral;
+}
+
+.container .button-secondary {
+    background: bisque;
+    border-color: bisque;
+}
+
+.container .button-outline {
+    background: none;
+}
+
+.container .button-edit {
+    background: lightgrey;
+}
