@@ -1,0 +1,92 @@
+body {
+    background: #eee;
+    padding: 2em;
+    font: 14px/1.5 Lato sans-serif;
+}
+
+.container {
+    width: 830px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #d3d3d3;
+    border: 1px solid #666666;
+    border-radius: 0.5em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8em;
+}
+
+.row {
+    display: flex;
+    gap: 0.9em;
+    flex: 0 0 100%;
+    justify-content: space-around;
+}
+
+.row div {
+    max-height: 42px;
+    display: flex;
+    background: #fff;
+    padding: 1em;
+    outline: 1px solid #d3d3d3;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+    border-radius: 0.3em;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+
+.row.one div {
+    background: #eee;
+    display: flex;
+    max-height: 35px;
+    align-items: center;
+}
+
+.row.two div:last-child {
+    width: 95px;
+    background: #eee;
+}
+
+.row.three div:first-child {
+    background: #eee;
+    width: 67px;
+}
+
+.row.three div:last-child {
+    width: 72px;
+    background: #eee;
+}
+
+.row.four div:first-child {
+    background: #eee;
+    width: 83px;
+}
+
+.row.four div:last-child {
+    background: #eee;
+    width: 55px;
+    min-height: 60px;
+    margin-top: -17px;
+    box-shadow: 0 0 0 0 rgb(0, 0, 0, 0.3);
+    outline: none;
+    border-bottom: 2px solid #d3d3d3;
+}
+.row.five div:last-child {
+    width: 135px;
+}
+
+.row.five div:first-child,
+.row.five div:last-child {
+    background: #eee;
+}
+
+/*space*/
+.row.six div:nth-child(4) {
+    width: 320px;
+}
+
+.row.six div:not(:nth-child(4)) {
+    background: #eee;
+}

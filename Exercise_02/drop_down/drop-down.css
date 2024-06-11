@@ -36,8 +36,6 @@ body {
     padding: 0.5em 1em;
 }
 
-
-.main-nav li:hover > a ,
 .main-nav a:hover {
     background: coral;
     color: #eee;

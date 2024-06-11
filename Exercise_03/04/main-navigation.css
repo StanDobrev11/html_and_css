@@ -1,0 +1,56 @@
+body {
+    padding: 2em;
+    font: 14px/1.5 Lato, sans-serif;
+}
+
+.main-nav {
+    max-width: 900px;
+    background: #eee;
+    padding: 0.5em 0.5em;
+    align-content: center;
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}
+
+.main-nav li > a {
+       margin: 0.2em;
+}
+
+.main-nav li {
+    display: block;
+    position: relative;
+}
+
+.main-nav > ul > li {
+    display: inline-block;
+}
+
+.main-nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 30rem;
+}
+
+.main-nav ul ul ul {
+    display: none;
+    position: absolute;
+    width: 20rem;
+    left: 100%;
+    top: 0;
+}
+
+.main-nav li:hover > ul {
+    display: block;
+}
+
+.main-nav a {
+    display: block;
+    text-decoration: none;
+    color: coral;
+    font-weight: bold;
+    background: #fff;
+    padding: 0.7em 1em;
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}

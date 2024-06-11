@@ -1,0 +1,66 @@
+body {
+    font: 18px/1.5 Lato sans-serif;
+    background: #fff;
+    padding: 2em;
+}
+
+.site h2 {
+    padding-bottom: 1em;
+}
+
+.site li {
+    /*display: block;*/
+    list-style: none outside;
+}
+
+.site ul ul li {
+    padding-left: 0.5em;
+}
+
+details summary {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+details summary::before {
+    background: #090;
+    color: #fff;
+    content: '+';
+    width: 1.2em;
+    aspect-ratio: 1/1;
+    line-height: 1;
+    text-align: center;
+    align-content: center;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    z-index: 100;
+}
+
+details[open] > summary::before {
+    content: '-';
+}
+
+/*lines of the tree*/
+ul li {
+    display: flex;
+}
+
+ul li li {
+    border-left: 2px solid #ccc;
+}
+
+ul li li::before {
+    display: block;
+    content: '';
+    border: solid #ccc;
+    border-width: 0 0 2px 2px;
+    width: 1em;
+    height: 1.3em;
+    border-bottom-left-radius: 0.3em;
+    margin-right: 0.5em;
+    position: relative;
+    top: -0.5em;
+    left: -10px
+}

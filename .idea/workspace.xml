@@ -5,31 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed282971-bbdc-48a8-8c14-ab66a0a957b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise_02/01/box-model-visualised.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/01/box-model-visualised.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/01/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/01/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/02/layout-centered.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/02/layout-centered.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/02/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/03/layout-section-wrapper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/03/layout-section-wrapper.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/04/card.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/04/card.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/05/blogpost.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/05/blogpost.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/06/component-accordion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/06/component-accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/07/social-media-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/07/social-media-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/08/component-button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/08/component-button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/09/component-banner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/09/component-banner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/drop_down/drop-down.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_02/drop_down/drop-down.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/01/display-flex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/01/display-flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/02/flex-direction.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/02/flex-direction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/03/flex-wrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/03/flex-wrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/04/flex-justify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_03/04/flex-justify.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717655161277</updated>
       <workItem from="1717655162714" duration="17522000" />
-      <workItem from="1717805355790" duration="38547000" />
+      <workItem from="1717805355790" duration="45583000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,62 @@
+body {
+    padding: 2em;
+    font: 14px/1.5 Lato, sans-serif;
+    background: #eee;
+}
+
+.site {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.three-rows {
+    background: #fff;
+    padding: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    border-radius: 0.3em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.1);
+}
+
+.three-rows > header,
+.three-rows > footer {
+    flex: 1 0 100%;
+    text-align: center;
+}
+
+/*.three-columns > * {*/
+/*    outline: 1px solid black;*/
+/*}*/
+
+.three-rows article {
+    flex: 1 1 30%;
+}
+
+.three-rows > header h1 {
+    margin-bottom: 0.3rem;
+}
+
+.three-rows > header p {
+    width: 45%;
+    margin: 0 auto;
+    font-style: italic;
+    opacity: 0.7;
+}
+
+.three-rows > footer p {
+    width: 65%;
+    margin: 0 auto;
+    font-size: 0.9em;
+    opacity: 0.7;
+}
+
+.three-rows > header P::after,
+.three-rows > footer p::before {
+    display: block;
+    content: '';
+    width: 5em;
+    height: 0.1rem;
+    background: lightgrey;
+    margin: 1rem auto;
+}

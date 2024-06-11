@@ -1,0 +1,50 @@
+body {
+    font: 18px/1.5 Lato sans-serif;
+    background: #eee;
+    padding: 2em;
+}
+
+.site {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    gap: 2em;
+}
+
+.site > main {
+    flex: 0 0 70%;
+}
+
+.site > aside article {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+article {
+    background: #fff;
+    padding: 2em;
+}
+
+.site > main article {
+    display: flex;
+}
+
+article .media {
+    flex: 0 0 30%;
+    display: flex;
+}
+
+article .avatar {
+    height: 100%;
+    min-height: 3em;
+    aspect-ratio: 1/1;
+    background: #090;
+    border-radius: 50%;
+    padding: 0.3em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}
+
+article + article {
+    margin-top: 2em;
+}
