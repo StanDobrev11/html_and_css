@@ -1,0 +1,32 @@
+body {
+    padding: 2em;
+    background: #ccc;
+    font: 14px/1.5 Lato, sans-serif;
+}
+
+.site {
+    max-width: 1200px;
+}
+
+.site .card {
+    max-width: 800px;
+    background: #eee;
+    display: flex;
+    justify-content: space-between;
+}
+
+.site .card article {
+    flex: 0 0 60%;
+    margin-left: 2em;
+}
+
+.site .card::after {
+    display: block;
+    content: '';
+    background: #090;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    width: 100px;
+    height: 100px;
+    margin-right: 10%;
+}

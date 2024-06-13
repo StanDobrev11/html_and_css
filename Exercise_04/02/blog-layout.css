@@ -1,0 +1,85 @@
+body {
+    padding: 2em;
+    background: #eee;
+    font: 14px/1.5 Lato sans-serif;
+}
+
+.site {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 0.3em;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+}
+
+header a {
+    color: inherit;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 0 100%
+}
+
+header h1 {
+    padding: 1rem 1.5rem;
+    color: #090;
+}
+
+
+header nav {
+    background: #333;
+    flex: 1 0 100%;
+    color: #AAA
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav ul li {
+    display: block;
+    list-style: none outside;
+    flex: 1 0 auto
+}
+
+header nav ul li a {
+    display: block;
+    padding: 1em;
+}
+
+header nav ul li a:hover {
+    color: #fff;
+    background: darkorange;
+}
+
+main {
+    padding: 0 2em;
+    flex: 1 0 60%;
+}
+
+h2 {
+    padding: 0.5rem 0.5rem;
+}
+
+p {
+    padding: 1rem 0.5rem;
+}
+
+aside {
+    padding: 0 2em;
+    flex: 1 0 30%;
+}
+
+footer {
+    background: #333;
+    flex: 1 0 100%;
+    color: #AAA;
+    padding: 1em;
+    text-align: center;
+}

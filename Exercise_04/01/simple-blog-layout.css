@@ -1,0 +1,35 @@
+body {
+    padding: 2em;
+    background: #eee;
+    font: 14px/1.5 Lato sans-serif;
+}
+
+.site {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 2.5em;
+    border-radius: 0.4em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.2);
+}
+
+.site > * {
+    border: 1px solid #ccc;
+    padding: 2em;
+    border-radius: 0.4em;
+}
+
+header, footer {
+    flex: 1 0 100%;
+}
+
+main {
+    flex: 1 0 60%;
+}
+
+aside {
+    flex: 1 0 20%;
+}

@@ -4,11 +4,25 @@ body {
 
 /* Typography */
 html {
-    font: 14px/1.5 Verdana, Helvetica, sans-serif;
+    font: 11px/1.5 Verdana, Helvetica, sans-serif;
 
     /*font-size: 14px;*/
     /*line-height: 1.5;*/
     /*font-family: Verdana, Helvetica, sans-serif;*/
+}
+
+@media (min-width: 400px) {
+    html {font-size: 12px}
+}
+
+
+@media (min-width: 800px) {
+    html {font-size: 14px}
+}
+
+
+@media (min-width: 1280px) {
+    html {font-size: 16px}
 }
 
 /* to inherit the font property */

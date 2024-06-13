@@ -5,15 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed282971-bbdc-48a8-8c14-ab66a0a957b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture_03/01/display-flex.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_03/01/display-flex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_03/02/flex-direction.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_03/02/flex-direction.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_03/03/flex-wrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_03/03/flex-wrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_03/04/flex-justify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_03/04/flex-justify.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/01/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/01/simple-blog-layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/01/simple-blog-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/02/blog-layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/02/blog-layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/02/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/responsive-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/responsive-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/screenshot_[1200px].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/screenshot_[800px].png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04/responsive-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04/responsive-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/04/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/05/responsive-navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/05/responsive-navigation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/05/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/06/fancy-quotes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/06/fancy-quotes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/09/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/09/timeline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_04/09/timeline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_04/01/media-type.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture_04/01/media-type.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_02/drop_down/drop-down.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_02/drop_down/drop-down.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_03/11/section-banner.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_03/11/section-banner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/typography.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +43,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
+        <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -61,30 +82,31 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Master/PycharmProjects/html_and_css/Exercise_02/04",
+    "last_opened_file_path": "C:/Users/Master/PycharmProjects/html_and_css/Exercise_04",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.language",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_04" />
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_02\04" />
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_02\02" />
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_02\01" />
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\03" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\css" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_02\04" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\13" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\11" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_01\css" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\jan-2024\Regular-Exam" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\jan-2024" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_04" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_04" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_03\07" />
     </key>
   </component>
   <component name="RunManager">
@@ -114,7 +136,8 @@
       <option name="presentableId" value="Default" />
       <updated>1717655161277</updated>
       <workItem from="1717655162714" duration="17522000" />
-      <workItem from="1717805355790" duration="45583000" />
+      <workItem from="1717805355790" duration="104216000" />
+      <workItem from="1718167939599" duration="44912000" />
     </task>
     <servers />
   </component>

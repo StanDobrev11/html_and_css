@@ -1,0 +1,55 @@
+body {
+    background: lightgrey;
+    padding: 2em;
+    font: 14px/1.5 Lato sans-serif;
+}
+
+main, aside {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #fff;
+    border-radius: 0.5em;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+main {
+    margin-bottom: 2em;
+}
+
+header h1 {
+    border-top: #ccc 1px solid;
+    padding: 1rem;
+}
+
+header .column-header {
+    background: #eee;
+    font-weight: bold;
+}
+
+
+ul {
+    display: flex;
+    border-top: #ccc 1px solid;
+
+}
+
+li {
+    display: block;
+    list-style: none outside;
+    padding: 1em;
+}
+
+
+aside li {
+    flex: 1 0 30%;
+}
+
+main li:not(:nth-child(2)) {
+    flex: 0 1 30%;
+}
+
+main li:nth-child(2) {
+    flex: 1 0 55%;
+}
+
