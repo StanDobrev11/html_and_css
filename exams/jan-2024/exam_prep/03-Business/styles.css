@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Serif');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top center;
+}
+
+html {
+    font: 20px/1.5 "PT Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "PT Serif";
+}
+
+.site-section {
+    padding: 2em;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    /*background: #080245;*/
+}
+
+.site-header .nav-menu ul {
+    display: flex;
+}
+
+.site-header .nav-menu ul li {
+    list-style: none outside;
+    padding: 0 0.5em;
+}
+
+.site-header .nav-menu a {
+    display: block;
+    text-decoration: none;
+    color: #fff
+}
+
+
+.site-title a {
+    display: block;
+    width: 130px;
+    height: 110px;
+    overflow: hidden;
+    text-indent: -200vw;
+    background-image: url("images/logo.webp");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.site-section.banner {
+    padding-bottom: 12em;
+}
+
+.site-section.banner h2 {
+    font-size: 3.4em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    color: #fff
+}
+
+.site-section.banner p {
+    max-width: 39.5rem;
+    font-size: 1.2em;
+    color: #fff
+}
+
+.site-section.columns {
+    background: #fff;
+    border-bottom: 2px solid #ccc;
+}
+
+.site-section.sponsors,
+.site-section.partners {
+    background: #fff;
+    text-align: center;
+}
+
+
+.column-container {
+    display: flex;
+    gap: 2em;
+}
+
+.site-footer {
+    background: #171720;
+    color: #fff;
+
+}
+
+.site-footer:last-child {
+    border-top: 1px solid rgb(255, 255, 255, 0.3);
+}
+
+.sponsors {
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    padding: 2em 0;
+}
+
+.sponsors li {
+    list-style: none outside;
+    display: block;
+    width: 10em;
+    aspect-ratio: 1/1;
+    background: #ddd;
+    border-radius: 50%;
+    padding: 1em;
+}
+
+.sponsors li a {
+
+}
+
+.sponsors li a img {
+    width: 100%;
+    height: auto;
+}

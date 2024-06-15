@@ -1,0 +1,6 @@
+@media (min-width: 1200px) {
+    .site {
+        display: flex;
+        gap: 1rem;
+    }
+}

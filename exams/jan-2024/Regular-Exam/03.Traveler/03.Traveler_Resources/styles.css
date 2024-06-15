@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+/*@import url('https://fonts.googleapis.com/css2?family=Cormorant+infant&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font: 18px/1.5 Karla, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Cormorant Infant", sans-serif;
+}
+
+.body-cover {
+    position: relative;
+    background-image: url('images/poster.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: top center;
+    z-index: 0;
+}
+
+ /*dimmer */
+.body-cover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    pointer-events: none;
+    z-index: -2;
+}
+
+.site-section {
+    padding: 2rem;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10rem;
+    filter: none;
+}
+
+.site-header .nav-menu ul {
+    display: flex;
+}
+
+.site-header .nav-menu ul li {
+    list-style: none outside;
+    padding: 0 1.5em;
+}
+
+.site-header .nav-menu a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.site-title a {
+    display: block;
+    width: 110px;
+    height: 60px;
+    overflow: hidden;
+    text-indent: -200vw;
+    background-image: url("images/logo.webp");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.site-section.banner {
+    text-align: center;
+}
+
+.site-section.banner h1 {
+    font-size: 112px;
+    font-weight: bold;
+    margin-bottom: 8rem;
+    color: #fff;
+}
+
+.site-section.banner p {
+    margin-bottom: 7rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+
+.site-section.testimonial {
+    background: #F8F0E9;
+}
+
+.site-section.testimonial .heading {
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+    font-size: 1.25rem;
+}
+
+.site-section.testimonial .statement {
+    font: 74px/0.8 "Cormorant Infant";
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 5rem;
+}
+
+.site-section.support {
+    background: #E14747;
+    color: #fff;
+    text-align: center;
+}
+
+.site-section.support h4 {
+    font: 1.55rem/1.5 Karla;
+    font-weight: bolder;
+    padding: 3rem 0;
+}
+
+.site-section.support p {
+    font-size: 1.25rem;
+    padding-bottom: 3rem;
+}
+
+.site-section.articles {
+    background: #F8F0E9;
+}
+
+.site-section.articles .container {
+    max-width: 630px;
+}
+
+.site-section.articles img {
+    width: 100%;
+    height: auto;
+    padding-top: 2.5rem;
+}
+
+.site-section.articles h2 {
+    font: 76px/1 "Cormorant Infant";
+    font-weight: bold;
+    text-align: center;
+    padding: 5rem 0;
+}
+
+.site-section.articles p {
+    font-size: 1.27rem;
+    padding-bottom: 5rem;
+}
+
+.site-section.guide a,
+.site-section.articles a {
+    display: block;
+    width: fit-content;
+    text-decoration: none;
+    color: #000;
+    background: #FFFFFF;
+    border: 1px solid black;
+    border-radius: 0.3rem;
+    padding: 0.3rem 1rem;
+}
+
+.site-section.articles .sec-button {
+    margin: 4rem auto;
+}
+
+.site-section.guide {
+    background: #E14747;
+    color: #fff;
+}
+
+.site-section.guide h2 {
+    font-size: 5.3rem;
+    text-align: center;
+    margin-top: 9.3rem;
+}
+
+.site-section.guide p {
+    font-size: 1.27rem;
+    text-align: center;
+    padding-top: 7.5rem;
+}
+
+.site-section.guide a {
+    border: none;
+    background: #FAD87A;
+    margin: 4rem auto;
+    padding: 1em 1.5em;
+    border-radius: 30px;
+}
+
+.site-section.footer {
+    background: #352B2A;
+    color: #fff;
+    padding-inline: 8rem;
+}
+
+.site-section.footer .site-title a {
+    width: 72px;
+    height: 42px;
+    margin: 3.2rem 0;
+}
+
+.site-section.footer p {
+    padding-bottom: 2rem;
+    font-size: 1rem;
+}
+
+.site-section.footer .footer {
+    opacity: 0.3;
+    padding-bottom: 4rem;
+    font-size: 1rem;
+}
