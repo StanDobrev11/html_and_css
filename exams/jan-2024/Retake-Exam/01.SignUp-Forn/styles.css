@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #C1BDBA;
+    padding: 2em;
+}
+
+html, input {
+    font: 16px/1.5 "Kode Mono", sans-serif;
+}
+
+.site-form {
+    max-width: 750px;
+    margin: 0 auto;
+    background: #24333C;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: #fff
+}
+
+h2 {
+    color: #fff
+}
+
+.site-form .header {
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em;
+    padding: 2rem;
+}
+
+.site-form .header a {
+    flex: 1 0 20%;
+    text-align: center;
+    padding: 0.5em 0;
+}
+
+.site-form .header a:first-child {
+    background: #1AB188;
+}
+
+.site-form .header a:last-child {
+    background: #435359;
+}
+
+.site-form .header a:last-child:hover {
+    background: #179A77;
+}
+
+
+.site-form .body {
+    text-align: center;
+    padding: 0 2rem;
+}
+
+.site-form .body h2 {
+    font-size: 40px;
+    font-weight: normal;
+    padding-bottom: 2rem;
+}
+
+.site-form .body .fields {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em 1em;
+}
+
+.site-form .body .fields .first-name,
+.site-form .body .fields .last-name {
+    flex: 1 0 20%;
+}
+
+.site-form .body .fields .email,
+.site-form .body .fields .password {
+    flex: 1 1 100%;
+}
+
+input {
+    min-width: 100%;
+    font-size: 1.5em;
+    background: none;
+    border: 1px solid #627376;
+}
+
+input::placeholder {
+    padding-left: 0.6em;
+}
+
+.site-form .body .fields a:nth-child(2),
+.site-form .body .fields a:first-child {
+    flex: 1 0 40%;
+}
+
+.site-form .body .fields a:nth-child(3),
+.site-form .body .fields a:nth-child(4) {
+    flex: 1 0 100%;
+}
+
+.site-form .footer {
+    padding-bottom: 0.5rem;
+}
+
+.site-form .footer .container {
+    background: #1AB188;
+    margin: 2rem;
+    text-align: center;
+    padding: 1rem;
+    font-size: 40px;
+    text-transform: uppercase;
+}

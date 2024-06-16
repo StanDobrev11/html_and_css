@@ -1,0 +1,160 @@
+@media (max-width: 600px) {
+    .placeholder {
+        height: auto;
+    }
+
+    .parallax-window {
+        position: static;
+        background: none;
+        height: auto;
+    }
+
+    .tm-header {
+        position: static;
+        z-index: 0;
+    }
+
+    .tm-header-inner {
+        padding-top: 0;
+        margin: 0 auto;
+        text-align: center;
+        display: block;
+        padding-bottom: 2.5em;
+    }
+
+    .tm-nav-ul {
+        justify-content: center;
+        padding-top: 2rem;
+    }
+
+
+    .tm-welcome-section {
+        max-width: inherit;
+        margin: 0 auto;
+    }
+
+    .text-center {
+        font-size: 1.6rem;
+        padding-bottom: 2.8rem;
+        padding-top: 0;
+    }
+
+    .tm-section-title {
+        margin: 0 auto;
+        padding: 3.4rem 6rem 2rem 6rem;
+        font-size: 2.9rem;
+    }
+
+
+    .tm-paging-item {
+        margin: 0.8rem;
+    }
+
+    .tm-paging-link,
+    .tm-paging-link.active {
+        font-size: 1.8rem;
+        margin: 0;
+    }
+
+    .tm-gallery {
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .tm-gallery-page {
+        display: block;
+        margin: 0 auto;
+        padding-left: 4rem;
+        padding-right: 3rem;
+    }
+
+    .tm-gallery-item {
+        max-width: 100%;
+        height: auto;
+        text-align: center;
+
+    }
+
+    .tm-gallery-img {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .tm-gallery-title {
+        padding-top: 2rem;
+        font-size: 2.3rem;
+    }
+
+    .tm-gallery-description {
+        font-size: 1.25rem;
+        text-align: start;
+    }
+
+    .tm-gallery-price {
+        text-align: start;
+        font-size: 2rem
+    }
+
+
+    .tm-cta-section.tm-container-inner {
+        width: inherit;
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .tm-cta-section.tm-container-inner .row {
+        display: block;
+        margin: 0 auto;
+        padding-top: 4.1rem;
+        padding-left: 4rem;
+        padding-right: 2.8rem;
+    }
+
+    .col-md-6  {
+        max-width: inherit;
+        display: block;
+        margin: 0 auto;
+        position: static;
+        padding: 0;
+    }
+
+    .tm-description-box {
+        max-width: initial;
+        display: flex;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+     .tm-btn {
+        display: block;
+        width: fit-content;
+        font-size: 1.5rem;
+    }
+
+    .tm-description-figure {
+        width: 100%;
+        height: auto;
+    }
+
+    .tm-mb-45 {
+        font-size: 1.5rem;
+    }
+
+    .tm-footer {
+        display: block;
+        width: initial;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    .tm-footer.text-center {
+        width: initial;
+        margin: 0 auto;
+        padding-top: 4.5rem;
+        padding-bottom: 2rem;
+    }
+
+
+}

@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i|PT+Serif:400,400i,700,700i&amp;display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-cover {
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: top center;
+}
+
+/*.body-cover {*/
+/*    position: relative;*/
+/*    background-image: url('images/poster.jpg');*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: 100% 100%;*/
+/*    background-position: top center;*/
+/*    z-index: 0;*/
+/*}*/
+
+html {
+    font: 24px/1 "PT Sans";
+}
+
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+
+.container {
+    margin: 0 auto;
+}
+
+
+/* HEADER */
+.container.header {
+    max-width: 1340px;
+}
+
+
+.container.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 6rem;
+}
+
+.site-header .nav-menu ul {
+    display: flex;
+}
+
+.site-header .nav-menu ul li {
+    list-style: none outside;
+    padding: 0 0.5em;
+}
+
+.site-header .nav-menu a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+
+.site-title a {
+    display: block;
+    width: 140px;
+    height: 140px;
+    overflow: hidden;
+    text-indent: -200vw;
+    background-image: url("images/logo.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* BANNER */
+.container.banner {
+    max-width: 1140px;
+    text-align: center;
+    padding-bottom: 6.7rem;
+}
+
+.container.banner h1 {
+    font-size: 62px;
+    padding-bottom: 2.35rem;
+}
+
+.container.banner p {
+    line-height: 1.25;
+    font-weight: bold;
+    padding-bottom: 1.83rem;
+}
+
+.container.banner a {
+    font-size: 22px;
+    font-weight: bold;
+    background: #D9D9D9;
+    padding: 0.5rem 1rem;
+    border-radius: 0.3rem;
+    opacity: 0.7;
+}
+
+/* CATALOGUE */
+.site-section.site-catalogue {
+    background: #60ACC1;
+}
+
+.container.catalogue {
+    max-width: 1630px;
+}
+
+.catalogue-header {
+    text-align: center;
+    padding-bottom: 1.83rem;
+    padding-top: 2.83rem;
+}
+
+.catalogue-header h2 {
+    font-size: 29px;
+    padding-bottom: 0.5rem;
+}
+
+.container.catalogue .columns {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 2.13rem;
+}
+
+.columns .card {
+    flex: 0 0 50%;
+    display: flex;
+    max-width: 660px;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.5);
+}
+
+.columns .image {
+    flex: 1 0 55%;
+    display: flex;
+}
+
+.columns .image img {
+    object-fit: cover;
+}
+
+.columns .text {
+    flex: 0 0 45%;
+    background: #fff;
+    position: relative;
+    padding: 2.6rem 1.5rem;
+    text-align: center;
+}
+
+.columns .text h2 {
+    font-size: 0.83rem;
+    line-height: 1.2;
+    font-weight: bold;
+    padding-bottom: 0.5rem;
+}
+
+.columns .text p {
+    font-size: 0.83rem;
+    text-align: start;
+}
+
+.columns .text::after {
+    display: block;
+    width: 12px;
+    height: 100%;
+    content: '';
+    background: #60ACC1;
+    position: absolute;
+    top: 0;
+    left: 100%
+}
+
+.site-furniture {
+    background: #fff;
+}
+
+.site-furniture .container {
+    max-width: 1740px;
+    padding-top: 2rem;
+}
+
+.site-furniture .columns {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.site-furniture .columns .article {
+    flex: 0 0 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.site-furniture .columns .article img {
+    display: block;
+    width: 155px;
+    height: 140px;
+}
+
+.article .column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.article h2 {
+    font-size: 1rem;
+    opacity: 0.8;
+    padding: 0.5rem;
+    font-weight: normal;
+}
+
+.article p {
+    max-width: 445px;
+    text-align: center;
+    font-size: 0.7rem;
+    opacity: 0.8;
+}
+
+.container-2.catalogue {
+    max-width: 1540px;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+}
+
+.container-2 .columns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4.4rem;
+}
+
+.container-2 .image {
+    flex: 1 0 20%;
+    box-shadow: 0 0 1em 0 rgb(0, 0, 0, 0.5);
+}
+
+.site-footer {
+    background: #FFFFFF;
+}
+
+.site-footer .footer {
+    /*max-width: 1300px;*/
+    padding: 2.5rem;
+    color: #67686B
+}
+
+.footer h2 {
+    text-align: center;
+    font-size: 1.4rem;
+}
+
+.footer h6 {
+    text-align: center;
+    font-size: 0.8rem;
+    font-style: italic;
+    padding-top: 0.2rem;
+    padding-bottom: 3.1rem;
+    font-weight: normal;
+}
+
+.footer p {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+footer {
+    background: #2D333C;
+    text-align: center;
+    padding: 1.5rem;
+}
+
+footer h3 {
+    opacity: 0.8;
+    color: #fff;
+    font-size: 1rem;
+}

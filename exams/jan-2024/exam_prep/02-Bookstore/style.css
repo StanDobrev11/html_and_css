@@ -404,7 +404,7 @@ body {
   padding-right: 24px;
   flex-direction: column;
 }
-.column {
+.article {
   display: flex;
   flex-direction: column;
 }

@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Agbalumo&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font: 16px/1.5 "Agbalumo", sans-serif;
+}
+
+body {
+    background: #fff;
+    padding: 2rem;
+}
+
+img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.site-card {
+    max-width: 844px;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+header,
+footer {
+    background: #D5EBEA;
+}
+
+.container {
+    max-width: 777px;
+    margin-left: 19px;
+    margin-right: 44px
+}
+
+header h1 {
+    padding-top: 40px;
+    font-size: 2.2rem;
+    text-align: center;
+    padding-bottom: 9px;
+    border-bottom: 3px solid black;
+
+}
+
+header h3 {
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 1px;
+    border-bottom: 3px solid black;
+}
+
+main {
+    position: relative;
+}
+
+main .card {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+}
+
+.card .map {
+    margin-top: 37px;
+    margin-bottom: 38px;
+    border: 2px solid black;
+    flex: 0 0 40%;
+    padding: 9px 9px 12px 9px;
+}
+
+.card .card-text {
+    flex: 1 0 55%;
+    padding-top: 64px;
+    line-height: 1.6;
+}
+
+.card-text p + p {
+    padding-top: 28px;
+}
+
+.map .image {
+    padding-bottom: 26px;
+}
+
+.card p {
+    text-indent: 38px;
+}
+
+.map-text {
+    font-size: 12px;
+}
+
+
+.sep-cont h2 {
+    max-width: 395px;
+    color: #FFFFFF;
+    background: black;
+    text-align: center;
+    font-weight: normal;
+}
+
+footer {
+    padding-left: 37px;
+    padding-bottom: 10px;
+    padding-top: 16px;
+}
+
+footer p + p {
+    padding-top: 10px;
+}
