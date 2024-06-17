@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /*background-image: url('images/background.jpg');*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100%;*/
+    /*background-position: top center;*/
+}
+
+html {
+    font: 20px/1 "Ubuntu", sans-serif;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    color: #000
+}
+
+.container {
+    max-width: 1560px;
+    margin: 0 auto;
+}
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 39px 55px 39px 40px;
+}
+
+.site-header ul {
+    display: flex;
+}
+
+.site-header ul li {
+    list-style: none outside;
+    padding: 0 0.5em;
+}
+
+.site-header ul li a {
+    display: block;
+    text-decoration: none;
+    color: #000
+}
+
+.site-header .site-title ul {
+    align-items: flex-end;
+}
+
+.site-header .site-title ul li:first-child {
+    font-size: 2.5rem;
+    border-right: 3px solid #DBDBDB;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+.site-header .site-title ul li:last-child {
+    color: #808080;
+    padding-left: 2.15rem;
+    margin-bottom: 0.2rem;
+}
+
+.site-header .nav-menu ul {
+    gap: 2px;
+}
+
+.site-header .nav-menu ul li {
+    background: #ECECEC;
+    padding: 28px 25px;
+}
+
+.site-header .nav-menu ul li:first-child {
+    background: #56DBB1;
+}
+
+.site-section.banner img {
+    display: block;
+    width: 100%;
+}
+
+.site-section.site-banner {
+    background: #56DBB1;
+    padding-top: 95px;
+    padding-bottom: 90px;
+}
+
+.container.site-banner p {
+    text-align: center;
+    line-height: 1.5;
+    font-weight: bolder;
+}
+
+.site-section.columns {
+    background: #353434;
+}
+
+.site-section .column-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 55px;
+    padding-bottom: 154px;
+}
+
+.icon-description {
+    flex: 1 0 20%;
+    text-align: center;
+}
+
+.icon-description h3 {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    border-bottom: 2px solid #9E9E9E;
+    padding-bottom: 32px;
+    padding-top: 150px;
+    align-items: center;
+}
+
+.icon-description p {
+    color: #56504A;
+    padding-top: 27px;
+    font-size: 0.85rem;
+    line-height: 2.0;
+}
+
+.icon-description h3::before {
+    display: block;
+    padding: 29px 29px 29px 29px;
+    content: '';
+    background: #56DBB1;
+    margin-bottom: 32px;
+    font-size: 3rem;
+    font-family: "Font Awesome 6 Free";
+    color: white;
+}
+
+.icon-description:first-child h3::before {
+    content: '\f008';
+}
+
+.icon-description:nth-child(2) h3::before {
+    content: '\f03d';
+}
+
+.icon-description:nth-child(3) h3::before {
+    content: '\f54e';
+}
+
+.icon-description:last-child h3::before {
+    content: '\f095';
+}
+
+
+.site-section.commercial {
+    background: white;
+    padding-top: 111px;
+    padding-bottom: 83px;
+    text-align: center;
+}
+
+.site-section.commercial h2 {
+    color: #5F5F5F;
+    padding-bottom: 18px;
+    font-size: 38px;
+}
+
+.site-section.commercial h3 {
+    color: #C3BCB8;
+    padding-bottom: 41px;
+    font-size: 19px;
+}
+
+.site-section.commercial a {
+    display: inline-block;
+    width: fit-content;
+    padding: 22px;
+    background: #974D1B;
+    color: white;
+    letter-spacing: 0.2rem;
+}
+
+.article {
+    flex: 1 0 20%;
+    text-align: center;
+    padding-top: 187px;
+    padding-bottom: 153px;
+}
+
+.article h3 {
+    color: white;
+    font-size: 1.5rem;
+    padding-bottom: 47px;
+}
+
+.article p {
+    color: #56504A;
+    font-size: 0.85rem;
+    line-height: 2.0;
+}
+
+.site-footer {
+    background: #1B9772;
+    color: #56DBB1;
+    padding: 84px;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    font-size: 0.9rem;
+}
+
+.site-footer span {
+    color: white;
+}

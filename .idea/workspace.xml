@@ -5,35 +5,106 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed282971-bbdc-48a8-8c14-ab66a0a957b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise_04/01/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/01/simple-blog-layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/01/simple-blog-layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/02/blog-layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/02/blog-layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/02/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/responsive-table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/responsive-table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/screenshot_[1200px].png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/screenshot_[800px].png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04.1/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04/responsive-table.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04/responsive-table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/04/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/05/responsive-navigation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/05/responsive-navigation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/05/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/06/fancy-quotes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/06/fancy-quotes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/09/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/09/timeline.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_04/09/timeline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_04/01/media-type.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture_04/01/media-type.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/02_Sep_23/Retake/03.Cinema/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/02_Sep_23/Retake/03.Cinema/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_1/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_1/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_1/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_2/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_2/screenshot-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_2/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_3/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_3/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exams/03_May-23/Regular/task_3/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_02/drop_down/drop-down.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_02/drop_down/drop-down.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise_03/11/section-banner.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_03/11/section-banner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/typography.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/typography.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/02_Sep_23/Retake/03.Cinema/03.Cinema_Условие.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Description.docx" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Description.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/images/picture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/images/picture.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/screenshot-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/screenshot-hover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/01.Magnificent-Things/01.Magnificent-Things_Resources/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photograper-Agency_Description.docx" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photograper-Agency_Description.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/condition.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/condition.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/experts.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/experts.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/people-1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/people-1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/people-2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/people-2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/team.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/images/team.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/screenshot-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/screenshot-mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/02.Photographer-Agency/02.Photographer-Agency_Resources/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Description.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Description.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Resources/images/logo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Resources/images/logo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Resources/images/place1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Resources/images/place1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Resources/images/poster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Resources/images/poster.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Resources/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Resources/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Resources/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Resources/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Regular-Exam/03.Traveler/03.Traveler_Resources/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Regular-Exam/03.Traveler/03.Traveler_Resources/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/01.SignUp-Forn/01.SignUp-Form_Description.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/01.SignUp-Forn/01.SignUp-Form_Description.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/01.SignUp-Forn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/01.SignUp-Forn/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/01.SignUp-Forn/screenshot-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/01.SignUp-Forn/screenshot-hover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/01.SignUp-Forn/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/01.SignUp-Forn/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/01.SignUp-Forn/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/01.SignUp-Forn/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/01.SignUp-Forn/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/01.SignUp-Forn/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/02.AnimalEnterprise/02.AnimalEnterprise_Description.docx" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/02.AnimalEnterprise/02.AnimalEnterprise_Description.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/02.AnimalEnterprise/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/02.AnimalEnterprise/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/02.AnimalEnterprise/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/02.AnimalEnterprise/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/02.AnimalEnterprise/screenshot-desktop.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/02.AnimalEnterprise/screenshot-desktop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/02.AnimalEnterprise/screenshot-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/02.AnimalEnterprise/screenshot-mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/02.AnimalEnterprise/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/02.AnimalEnterprise/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/03.FurnitureCatalog_Description.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/03.FurnitureCatalog_Description.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/beach-set.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/beach-set.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/bed.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/bed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/bird.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/bird.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/chair.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/chair.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/dog.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/dog.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/garden-chair.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/garden-chair.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/home-set.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/home-set.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/images/table.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/images/table.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/03.FurnitureCatalog/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/03.FurnitureCatalog/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/Retake-Exam/Upload-Exam-Guidelines.docx" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/Retake-Exam/Upload-Exam-Guidelines.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/01-Chillipop/chillipop.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/01-Chillipop/chillipop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/01-Chillipop/chillipop.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/01-Chillipop/chillipop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/01-Chillipop/image/img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/01-Chillipop/image/img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/01-Chillipop/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/01-Chillipop/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/01-Chillipop/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/01-Chillipop/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/art.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/art.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/books.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/books.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/bookstore.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/bookstore.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/bookstore1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/bookstore1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/bookstore2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/bookstore2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/bookstore3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/bookstore3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/decoration.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/decoration.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/movie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/movie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/music.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/music.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/images/supplies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/images/supplies.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/screenshot-desktop.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/screenshot-desktop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/screenshot-mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/screenshot-mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/02-Bookstore/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/02-Bookstore/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/images/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/images/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/images/logo.webp" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/images/logo.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/images/sponsor1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/images/sponsor1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/images/sponsor2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/images/sponsor2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/jan-2024/exam_prep/03-Business/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/exams/01_Jan-24/exam_prep/03-Business/text.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +115,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -75,24 +146,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.01.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Master/PycharmProjects/html_and_css/Exercise_04",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.language",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.01.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Master/PycharmProjects/PostgreSQL&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_04" />
@@ -102,11 +173,11 @@
       <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_02\03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\jan-2024\Regular-Exam" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\jan-2024" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_04" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Lecture_04" />
-      <recent name="C:\Users\Master\PycharmProjects\html_and_css\Exercise_03\07" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\03_May-24\Regular\task_2" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\03_May-24\Regular\task_3" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\03_May-24\Regular\task_1" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\02_Sep_23\Retake\02.Game-World" />
+      <recent name="C:\Users\Master\PycharmProjects\html_and_css\exams\02_Sep_23\Retake\01.Wiki-US" />
     </key>
   </component>
   <component name="RunManager">
@@ -137,7 +208,8 @@
       <updated>1717655161277</updated>
       <workItem from="1717655162714" duration="17522000" />
       <workItem from="1717805355790" duration="104216000" />
-      <workItem from="1718167939599" duration="44912000" />
+      <workItem from="1718167939599" duration="132169000" />
+      <workItem from="1718569263919" duration="31741000" />
     </task>
     <servers />
   </component>
