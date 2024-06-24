@@ -1,0 +1,258 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: white;
+}
+
+html {
+    font: 19px/1 "Lato";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", sans-serif;
+}
+
+
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+}
+
+.site-header .nav-menu ul {
+    display: flex;
+
+}
+
+.site-header .nav-menu ul li {
+    list-style: none outside;
+    padding: 0.8em 1.5em;
+}
+
+.site-header .nav-menu a {
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+
+
+.site-title a {
+    display: block;
+    width: 115px;
+    height: 85px;
+    overflow: hidden;
+    text-indent: -200vw;
+    background-image: url("images/logo.jpeg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.site-banner {
+    position: relative;
+    width: 100%;
+    height: 715px;
+    background:
+        linear-gradient(to bottom, #1DB954 52.5%, #fff 47.5%);
+    background-size: auto 100%;
+}
+
+.site-banner .banner-image img {
+    margin-top: -38.5px;
+    height: 655px;
+    width: auto;
+}
+
+.site-banner h1 {
+    padding-top: 70px;
+    text-align: center;
+    color: white;
+}
+
+.card-container {
+    display: flex;
+    max-width: 1270px;
+    margin-inline: auto;
+    margin-top: -585px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    max-width: 520px;
+    height: 500px;
+    border-radius: 0.8rem;
+    box-shadow: 0 0 1em 0 rgb(0,0,0,0.7);
+    overflow: hidden;
+    background: white;
+}
+
+
+
+.card h2 {
+    text-align: center;
+    padding-top: 1.3rem;
+    padding-bottom: 51px;
+    padding-inline: 67px;
+    color: #54546D;
+}
+
+.card:last-child h2 {
+    padding-bottom: 23px;
+}
+
+.card-ul {
+    padding-inline: 64px;
+    list-style: circle;
+}
+
+.card-ul li {
+    line-height: 1.5;
+}
+
+.card-ul li + li {
+    padding-top: 10px;
+    opacity: 0.7;
+}
+
+.card-main {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.button {
+    align-self: center;
+    display: block;
+    width: fit-content;
+    background: #1DB954;
+    text-decoration: none;
+    color: white;
+    padding: 0.7rem 2rem;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 30px 0;
+}
+.card-footer {
+    display: flex;
+    justify-content: center;
+    background: black;
+    color: white;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    font-size: 22px;
+}
+
+.card-footer p {
+    padding: 1rem 1rem;
+}
+
+.card-footer p + p {
+    border-left: 1px solid white;
+    flex: 1 0 50%
+}
+
+.site-section.dogopal {
+    max-width: 1720px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.dogopal .text {
+    margin-top: 100px;
+    flex: 1 0 50%;
+}
+
+.dogopal .image {
+    margin-top: 95px;
+    display: block;
+    align-content: center;
+    width: 100%;
+    height: auto;
+    flex: 0 0 35%;
+    padding-left: 25px;
+
+}
+
+.dogopal .image img {
+    display: block;
+    max-width: 450px;
+    height: auto;
+}
+
+.text p {
+    padding-bottom: 30px;
+    line-height: 1.2rem;
+
+
+}
+
+.text .heading {
+    font-weight: 750;
+    font-size: 1.2rem;
+    font-family:"Montserrat", sans-serif;
+}
+
+.site-section.difference {
+    text-align: center;
+    max-width: 1250px;
+    margin: 0 auto 82px auto;
+}
+
+.difference-heading {
+    margin-top: 86px;
+}
+
+.difference-heading h1 {
+        font-size: 52px;
+    padding-bottom: 46px;
+}
+
+.difference-heading p {
+    font-family: "Montserrat", sans-serif ;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.table {
+    text-align: start;
+    background: #81D8A0;
+    margin: 2rem 0;
+    border-radius: 7px;
+    overflow: hidden;
+}
+
+.difference .row {
+    height: 49px;
+    padding-inline: 0.5rem;
+    align-content: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.difference .row:nth-child(odd) {
+    background: #CCCBCB;
+}
+
+.ticks .cross {
+    padding-right: 75px;
+    padding-left: 150px;
+}
+
+.site-footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 38px;
+    font-weight: 200;
+}
